@@ -1,0 +1,17 @@
+Variables
+	 Una variable almacena un valor para poder usarlo mas tarde en un programa
+dicho valor puede ser modificado. Se declara con la palabra clave var
+
+Strings
+	Es un tipo de dato compuesto por una cadena de caracteres dentro de comillas simples o dobles
+
+Funciones (argumentos, return)
+	 Una funcion es una parte del codigo que podemos reutilizar para no tener que volver a escribir todo 
+el codigo cada vez que se lo necesita. Generalmente se le pasan valores(Argumentos) que se manipulan dentro de la funcion
+y devuelve un resultado mediante la palabra resevada return
+
+Declaraciones if
+	Una declaracion if analiza una condicion de la manera "Si se cumple una condicion, entonces hacer algo, sino hacer otra cosa.
+
+Valores booleanos (true, false)
+	Son un tipo de datos que pueden almacenar los valores Verdader(true) o Falso(False) 
